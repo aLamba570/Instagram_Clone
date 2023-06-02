@@ -1,5 +1,9 @@
 This project was bootstrapped with Create React App.
 
+
+![192791941-4f25d3d7-fdcf-45ea-89f9-02e57da7a5fd](https://github.com/aLamba570/Instagram_Clone/assets/122524861/c76ee7b8-d5da-4796-9f7c-15cb2d76eeda)
+
+
 Available Scripts
 
 
